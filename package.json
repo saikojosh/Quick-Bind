@@ -1,19 +1,17 @@
 {
-	"name": "quick-bind",
-	"description": "A shorthand for Function.prototype.bind() to allow binding without changing the context.",
-	"version": "0.0.1",
-	"author": "Josh Cole <hello@joshuacole.me> (http://www.joshuacole.me)",
-	"main": "index.js",
-	"dependencies": {
-
-	},
-	"devDependencies": {
-		"eslint": "latest",
-		"eslint-config-airbnb": "latest",
-		"eslint-config-settled": "latest",
-		"eslint-plugin-babel": "latest",
-		"eslint-plugin-import": "latest",
-		"eslint-plugin-jsx-a11y": "latest",
-		"eslint-plugin-react": "latest"
-	}
+  "name": "quick-bind",
+  "description": "A shorthand for Function.prototype.bind() to allow binding without changing the context.",
+  "version": "0.0.2",
+  "author": "Josh Cole <hello@joshuacole.me> (http://www.joshuacole.me)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-airbnb": "latest",
+    "eslint-config-settled": "latest",
+    "eslint-plugin-babel": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsx-a11y": "latest",
+    "eslint-plugin-react": "latest"
+  }
 }
